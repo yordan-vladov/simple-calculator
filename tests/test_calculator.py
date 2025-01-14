@@ -1,5 +1,5 @@
 # tests/test_calculator.py
-from src.calculator import add, subtract
+from simple_calculator.calculator import add, subtract
 
 def test_add():
     assert add(1, 2) == 3
