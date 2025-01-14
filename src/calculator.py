@@ -1,4 +1,4 @@
-# my_project/calculator.py
+# src/calculator.py
 
 def add(a, b):
     return a + b
